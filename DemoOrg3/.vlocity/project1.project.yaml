@@ -1,0 +1,12 @@
+Name: Project1
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - OmniScript/CPQ_AssetViewerQuoteFlow_Multi-Language
+    - OmniScript/CPQ_ChangeToOrder_Multi-Language
+    - OmniScript/CPQ_ChangeToQuote_Multi-Language
+    - OmniScript/CPQ_SingleMove_Multi-Language
+VlocityTypesToFetch:
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:

@@ -1,0 +1,43 @@
+Name: Project2
+ignoreDependencies: false
+VlocityDataPackKeys:
+    - CpqConfigurationSetup/CPQ Cart Preview Modal Use API
+    - CpqConfigurationSetup/CPQ Toast Message Log Level
+    - CpqConfigurationSetup/CpqCachePvtKey
+    - CpqConfigurationSetup/CpqNextPricingPlan
+    - DataRaptor/CPQCreateOpportunity
+    - DataRaptor/CPQGetGroupsToCreateList
+    - DataRaptor/CPQGetProductsFromAssets
+    - DataRaptor/cpqGetRecordType
+    - DataRaptor/CreateOrderRequestData
+    - DataRaptor/CreateQuoteRequestData
+    - DataRaptor/GetAccountFromAsset
+    - DataRaptor/GetExistingAssetsFromOrderItem
+    - DataRaptor/GetExistingAssetsFromQuoteLineItem
+    - DataRaptor/UpdateOrderAccount
+    - IntegrationProcedure/CPQ_CreateOrder
+    - IntegrationProcedure/CPQ_CreateQuote
+    - IntegrationProcedure/CPQ_StartBulkCreateGroups
+    - OmniScript/CPQ_AssetViewerOrderFlow_Multi-Language
+    - OmniScript/CPQ_AssetViewerQuoteFlow_Multi-Language
+    - OmniScript/CPQ_ChangeToOrder_Multi-Language
+    - OmniScript/CPQ_ChangeToQuote_Multi-Language
+    - OmniScript/CPQ_SingleMove_Multi-Language
+    - VlocityCard/cpqAssetViewerChildLineItem
+    - VlocityCard/cpqAssetViewerContainer
+    - VlocityCard/cpqAssetViewerGroupLineItems
+    - VlocityCard/cpqAssetViewerLineItem
+    - VlocityCard/cpqAssetViewerSelectAllAssets
+    - VlocityCard/cpqCartInlineChildPromoForAssetViewer
+    - VlocityCard/cpqCartInlinePromoForAssetViewer
+    - VlocityCard/cpqPromotionDetailViewForAssetViewer
+    - VlocityCard/cpqSpinner
+    - profiles/Admin.profile
+VlocityTypesToFetch:
+    - CpqConfigurationSetup
+    - DataRaptor
+    - IntegrationProcedure
+    - OmniScript
+    - VlocityCard
+SalesforceTypesToFetch:
+    - Profile
